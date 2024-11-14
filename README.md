@@ -3,9 +3,10 @@ I'm a master's student in Computer Science at UC Davis, passionate about solving
 
 💡 What excites me?
 
-Designing efficient network protocols, focusing on the latest advancements like QUIC.
-Building robust, scalable systems that optimize performance and security.
-Exploring new technologies and leveraging them to tackle real-world problems.
+- Designing efficient network protocols, focusing on the latest advancements like QUIC.
+- Building robust, scalable systems that optimize performance and security.
+- Exploring new technologies and leveraging them to tackle real-world problems.
+
 🔧 Tech Stack:
 
 Networking: DPI, QUIC, TCP/IP, Routing.
