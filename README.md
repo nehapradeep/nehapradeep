@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there, I'm Neha 👋
+I'm a master's student in Computer Science at UC Davis, passionate about solving challenging network problems and diving deep into systems engineering. 🚀
 
-<!--
-**nehapradeep/nehapradeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 What excites me?
 
-Here are some ideas to get you started:
+Designing efficient network protocols, focusing on the latest advancements like QUIC.
+Building robust, scalable systems that optimize performance and security.
+Exploring new technologies and leveraging them to tackle real-world problems.
+🔧 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Networking: DPI, QUIC, TCP/IP, Routing.
+Programming: C/C++, Python, Go.
+Tools: Wireshark, GNS3, Docker.
+Frameworks: gRPC, HTTP/2, QUIC.
+🚀 Currently working on network optimization and exploring 5G technologies. Always eager to learn, collaborate, and build impactful solutions!
+
+📫 Feel free to connect with me if you're working on something cool related to networks, systems, or QUIC!
