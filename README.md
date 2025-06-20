@@ -1,10 +1,10 @@
 Hi there, I'm Neha 👋
 
-I'm a master's student in Computer Science at UC Davis, passionate about solving challenging network problems and diving deep into systems engineering. 🚀
+I'm a master's student in Computer Science at UC Davis, passionate about solving challenging network problems and diving deep into systems engineering.
 
 💡 What excites me?
 
-- Designing efficient network protocols, focusing on the latest advancements like QUIC.
+- Designing efficient network protocols.
 - Building robust, scalable systems that optimize performance and security.
 - Exploring new technologies and leveraging them to tackle real-world problems.
 
